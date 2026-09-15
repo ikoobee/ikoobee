@@ -5,14 +5,23 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ikoobee&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/ikoobee)
 [![GitHub followers](https://img.shields.io/github/followers/ikoobee?label=Follow&style=flat-square&logo=github)](https://github.com/ikoobee)
 
-### 🚀 About Me
+> 全栈开发者，专注把复杂流程做成开箱即用的小工具。
 
-- 🔭 目前专注于：**全栈开发** 与 **小工具类产品**
-- 🧰 正在构建：**智能排座**、**智能拼柜** 等纯前端工具
-- 👯 希望合作：**工具类开源项目**
+### 📌 Now
+
+- 🔭 正在维护：**智能排座**、**智能拼柜**
+- 🌱 正在学习：Go 高并发、前端工程化
+- 🎯 近期目标：把工具类项目做成可在线体验的 Demo
+- 🤝 开放合作：工具类开源项目、前端工具定制
 - 💬 可以问我：`PHP` `Vue` `TypeScript` `JavaScript` `Go` `Python` `Node.js` `MySQL` `Redis` `Elasticsearch`
 - 🌐 博客：[ikoobee.com](https://ikoobee.com)
 - 📫 邮箱：[ikoobee@outlook.com](mailto:ikoobee@outlook.com)
+
+### 🧠 Skills
+
+- **精通**：PHP、Vue、TypeScript、JavaScript
+- **熟悉**：Go、Python、Node.js、MySQL、Redis
+- **了解**：Elasticsearch、HTML5
 
 ### 🛠️ Tech Stack
 
@@ -33,6 +42,14 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
+**Toolchain**  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -48,17 +65,39 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikoobee&theme=tokyonight&hide_border=true&area=true" />
 </div>
 
-### 🌟 Featured Projects
+### 🌍 Open Source
 
-| 项目 | 说明 | 技术 |
-| :--- | :--- | :--- |
-| **智能排座** | 纯前端实现的智能排座工具，轻量、易部署，适合快速落地使用。 | `纯前端` |
-| **智能拼柜** | 纯前端实现的智能拼柜工具，面向工具类场景，开箱即用。 | `纯前端` |
+- 维护工具类开源项目：**智能排座**、**智能拼柜**
+- 欢迎提交 Issue / PR
+- 关注方向：效率工具、纯前端工具、全栈应用
 
-> 更多项目与源码：https://github.com/ikoobee?tab=repositories
+### 🤝 合作方向
+
+- 工具类产品开发
+- 全栈项目外包 / 技术顾问
+- 开源项目共建
+- 前端纯工具、效率工具、数据可视化
+
+### 💡 Principles
+
+- 能纯前端解决，就不上后端
+- 工具优先：简单、直接、开箱即用
+- 文档和 Demo 比口号更重要
+- 保持开源，持续迭代
 
 ### 📫 Connect with Me
 
 [![Blog](https://img.shields.io/badge/-ikoobee.com-FF5722?style=flat-square&logo=rss&logoColor=white)](https://ikoobee.com)
 [![Email](https://img.shields.io/badge/-ikoobee@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:ikoobee@outlook.com)
 [![GitHub](https://img.shields.io/badge/-ikoobee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ikoobee)
+
+<!-- 可选：其他平台
+[![掘金](https://img.shields.io/badge/-掘金-1E80FF?style=flat-square&logo=juejin&logoColor=white)](你的掘金链接)
+[![知乎](https://img.shields.io/badge/-知乎-0084FF?style=flat-square&logo=zhihu&logoColor=white)](你的知乎链接)
+-->
+
+### 💖 Support
+
+如果我的工具帮到你，欢迎请我喝杯咖啡。
+
+[![爱发电](https://img.shields.io/badge/-爱发电-946CE6?style=flat-square)]([https://afdian.com/a/ikoobee])
