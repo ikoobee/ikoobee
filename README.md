@@ -100,4 +100,4 @@
 
 如果我的工具帮到你，欢迎请我喝杯咖啡。
 
-[![爱发电](https://img.shields.io/badge/-爱发电-946CE6?style=flat-square)]([https://afdian.com/a/ikoobee])
+[![爱发电](https://img.shields.io/badge/-爱发电-946CE6?style=flat-square)](https://afdian.com/a/ikoobee)
